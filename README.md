@@ -1,7 +1,7 @@
-##Medical Image Segmentation (Computer Vision)
+## Medical Image Segmentation (Computer Vision)
 
 
-####Introduction 
+#### Introduction 
 
 Many diagnostic applications critically depend on the successful localization of bone structure
 
@@ -9,7 +9,7 @@ In this project, we have trained a machine learning model (a convolutional neura
 
 The goal is to develop a method that can automatically detect the bone area(Tibia bone) from a knee MRI image
 
-####Method
+#### Method
 
 The deep learning used in this project is U-net.
 
@@ -33,7 +33,7 @@ In total we had 7040 DICOM images with 6000 mask generated from 44 cases
      
 Figure 3(a) provides an example of DICOM images . For each image we have labeled the tibia bone area as shown in Figure 3(b).Using Matlab code we have generated binary mask for each labeled image as shown in Figure 3(c).Figure 3(d) is U-net segmented image generated using U-net code.
 
-####Results  
+#### Results  
 
 The models produces strong dice coefficients particular for 3D-DICOM images , for 29 epochs training set gives around 95 % , validation goes for around 90%.The model took around 2 hours to run all datasets.
 
