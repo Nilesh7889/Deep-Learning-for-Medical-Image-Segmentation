@@ -42,10 +42,10 @@ The models produces strong dice coefficients particular for 3D-DICOM images , fo
 
 Figure 2 plots the graph on training and validation datasets.
 
+![image](https://user-images.githubusercontent.com/43874699/68726628-12610880-0590-11ea-8965-8ddc64a5abe1.png)
+
 The performance of testing dataset in dice coef is 88%.The model prediction is accurate for most cases.
 
 Figure 3(d) shows the example of predicted image after 29 epochs.
-
-![image](https://user-images.githubusercontent.com/43874699/68726628-12610880-0590-11ea-8965-8ddc64a5abe1.png)
 
 ![raw](https://user-images.githubusercontent.com/43874699/68726698-53591d00-0590-11ea-855b-2a4aec47dcf1.png)
