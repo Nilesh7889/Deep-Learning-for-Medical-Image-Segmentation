@@ -1,4 +1,4 @@
-## Medical Image Segmentation (Computer Vision)
+## Deep Learning for Medical Image Segmentation (Computer Vision)
 
 
 ### Introduction 
