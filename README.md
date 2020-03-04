@@ -30,7 +30,14 @@ Our dataset contains 44 cases of 3D MRI knee.
 
 Out of 44 cases we allotted 24 cases for training , 10 cases for validation and 10 cases for testing sets.
 
+![Picture1](https://user-images.githubusercontent.com/43874699/75917913-c5e45600-5e28-11ea-88c6-7f2b4af8c987.png)
+
+![Picture2](https://user-images.githubusercontent.com/43874699/75917918-c7ae1980-5e28-11ea-9338-e8d37dc0b7fb.png)
+
+
 Each cases include 160 2D images  of Tibia bone. Each images contained segments which border tibia bone. 
+
+![Picture3](https://user-images.githubusercontent.com/43874699/75917872-b533e000-5e28-11ea-85fa-6a6d10e4b8cd.png)
 
 In total we had 7040 DICOM images with 6000 mask generated from 44 cases 
      
