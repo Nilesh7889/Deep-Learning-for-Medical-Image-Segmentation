@@ -35,7 +35,10 @@ Out of 44 cases we allotted 24 cases for training , 10 cases for validation and 
 ![Picture2](https://user-images.githubusercontent.com/43874699/75917918-c7ae1980-5e28-11ea-9338-e8d37dc0b7fb.png)
 
 
-Each cases include 160 2D images  of Tibia bone. Each images contained segments which border tibia bone. 
+
+### Each cases include 160 2D images  of Tibia bone. Each images contained segments which border tibia bone. 
+
+
 
 ![Picture3](https://user-images.githubusercontent.com/43874699/75917872-b533e000-5e28-11ea-85fa-6a6d10e4b8cd.png)
 
