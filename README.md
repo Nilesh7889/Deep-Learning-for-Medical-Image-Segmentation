@@ -1,4 +1,4 @@
-## Deep Learning for Medical Image Segmentation (Computer Vision)
+## Deep Learning for Tibia Bone Segmentation using U-Net (Computer Vision)
 
 
 ### Introduction 
